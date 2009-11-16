@@ -1,0 +1,8 @@
+{
+	"name": "My IP",
+	"version": "1.0.4",
+	"description": "Displays your IP. Hover: displays location; left-click: displays location on map; right-click: refresh IP",
+	"toolstrips": ["MyIP.html"],
+	"update_url": "http://www.travelingtechguy.com/extensions/MyIP-updates.xml",
+	"permissions": []
+}
